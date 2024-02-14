@@ -1,5 +1,5 @@
 body{
-    background-color: grey;
+    background-color: rgb(255, 255, 255);
 }
 
 html{
@@ -8,6 +8,12 @@ html{
 }
 
 h1{
-    color:snow;
+    color:rgb(255, 0, 0);
     text-align: center;
+}
+
+p{
+    color:black;
+    text-align: center;
+    font-size: medium;
 }
