@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+}
+
+html{
+    height: auto;
+    width: auto;
+}
+
+h1{
+    color:snow;
+    text-align: center;
+}
